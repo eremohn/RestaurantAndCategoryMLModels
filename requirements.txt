@@ -41,12 +41,14 @@ referencing==0.36.1
 requests==2.32.3
 rich==13.9.4
 rpds-py==0.22.3
+scikit-learn==1.6.1
 scipy==1.15.1
 six==1.17.0
 smmap==5.0.2
 stanio==0.5.1
 streamlit==1.41.1
 tenacity==9.0.0
+threadpoolctl==3.5.0
 toml==0.10.2
 tornado==6.4.2
 tqdm==4.67.1
